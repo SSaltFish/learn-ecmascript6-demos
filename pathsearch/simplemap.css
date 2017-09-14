@@ -1,0 +1,9 @@
+#tabmap{
+	position:absolute;
+	border:1px solid red;
+}
+
+#tabmap div{
+	float:left;
+	margin: 0px;
+}
